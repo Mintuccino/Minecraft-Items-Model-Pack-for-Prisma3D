@@ -201,3 +201,20 @@ Bread
 Crossbow
 EnderPearl
 Horse_armor
+
+v1.0.1
+
+Did some corrections to a few Items models that needed it (horse armor model was one of them)
+
+v1.0.2
+
+More Items Models added
+
+Tools (Sword, Pickaxe, Axe, Hoe and Shovel have been remade and are now available in one file)
+
+v1.1.0
+
+Modified every texture to fit correctly to they're corresponding models
+
+
+Updated as of April 8th, 2020
